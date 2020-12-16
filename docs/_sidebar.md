@@ -1,1 +1,3 @@
-- [首页](README.md)
+- 开始
+  - [下载安装](start-install)
+  - [配置管理](start-option)
