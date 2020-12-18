@@ -1,3 +1,4 @@
 - 开始
   - [下载安装](start-install)
   - [配置管理](start-option)
+  - [插件和主题](start-apps)
