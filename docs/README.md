@@ -21,4 +21,7 @@ docsify init ./docs
 
 # cd "/d/web/#Git/ZBlogPHP-Wiki"
 docsify serve docs
+# Listening at
+# http://localhost:3000
+
 ```
