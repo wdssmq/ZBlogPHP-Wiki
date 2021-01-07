@@ -2,3 +2,4 @@
   - [下载安装](start-install)
   - [配置管理](start-option)
   - [插件和主题](start-apps)
+  - [常见问题](start-faq)
