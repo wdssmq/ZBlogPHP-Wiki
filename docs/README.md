@@ -25,3 +25,23 @@ docsify serve docs
 # http://localhost:3000
 
 ```
+
+## docsify使用技巧
+
+### 嵌套调用重复内容
+
+将需要重复使用的内容单独写进一个*.md文件，然后可以用如下语法引用：
+
+```md
+[host](terms/host.md ':include')
+
+[path](terms/path.md ':include')
+```
+
+效果如下：
+
+[host](terms/host.md ':include')
+
+[path](terms/path.md ':include')
+
+
